@@ -1,0 +1,9 @@
+{
+  "name": "com.vlc.opener",
+  "description": "VLC Opener Native Messaging Host",
+  "path": "PATH_TO_BE_REPLACED\\vlc_opener.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://__EXTENSION_ID__/"
+  ]
+}
